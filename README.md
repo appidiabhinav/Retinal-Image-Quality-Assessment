@@ -19,7 +19,15 @@ $./AssessImage.sh /path/to/retinal_image
 $ make all
 $ ./AssessImage.sh Images/1.jpg
 ```
-
+## Output:
+Ungradable Retinal Image<br>
+<br>
+<img src = "https://raw.githubusercontent.com/Kavitha-G/Retinal-Image-Quality-Assessment/master/SampleImages/IMG_00923.jpg" width = "40%" />
+<br><br>
+Gradable Retinal Image<br>
+<br>
+<img src = "https://raw.githubusercontent.com/Kavitha-G/Retinal-Image-Quality-Assessment/master/SampleImages/IMG_00924.jpg" width = "40%" />
+<br><br>
 
 ## References
 * Herbert Davis, Stephen Russell, Eduardo Barriga, Michael Abramoff and Peter Soliz - "Vision-based, Real-time Retinal Image Quality Assessment"
