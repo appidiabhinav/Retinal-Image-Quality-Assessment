@@ -1,8 +1,10 @@
 # Retinal-Image-Quality-Assessment
 Analyse adequacy of a retinal image
 ## Source
+
 -> feature.cpp<br>
 Reads in an image of the retina and calculates the feature vector values
+
 -> result.cpp<br>
 Takes in the feature vector and the coefficient vector(theta calculated using logistic regression) and declares whether the image is gradable or not
 
